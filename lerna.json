@@ -1,6 +1,6 @@
 {
-	"npmClient": "yarn",
-	"useWorkspaces": false,
+    "npmClient": "yarn",
+    "useWorkspaces": false,
     "packages": [
         "packages/*"
     ],
