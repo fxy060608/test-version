@@ -3,7 +3,7 @@
     "private": true,
     "scripts": {
         "release": "lerna publish --force-publish=*",
-        "release:alpha": "lerna publish --force-publish=* --dist-tag=alpha"
+        "release:alpha": "lerna publish --force-publish=* --npm-tag=alpha"
     },
     "devDependencies": {
         "lerna": "^3.4.3"
